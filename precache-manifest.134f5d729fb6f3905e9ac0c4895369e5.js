@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ec496c8f9751cc7c5d508d1fa5803a2",
+    "revision": "077507c9d0d60517a271aef11faa82f6",
     "url": "/Big9Chat/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Big9Chat/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "aa88652f5c6b874182f1",
+    "revision": "1793666196965dc29b15",
     "url": "/Big9Chat/static/css/main.c7df500f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Big9Chat/static/js/2.8563bc1f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aa88652f5c6b874182f1",
-    "url": "/Big9Chat/static/js/main.27a8f63a.chunk.js"
+    "revision": "1793666196965dc29b15",
+    "url": "/Big9Chat/static/js/main.20a344fa.chunk.js"
   },
   {
     "revision": "8fbde20e3323715d9952",
