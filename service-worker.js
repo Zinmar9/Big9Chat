@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Big9Chat/precache-manifest.3285f6031be50a721997b1a3c66a113a.js"
+  "/Big9Chat/precache-manifest.43cd09e0733b55dc8e1586248bd8d1bd.js"
 );
 
 self.addEventListener('message', (event) => {
