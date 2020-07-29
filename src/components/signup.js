@@ -1,7 +1,6 @@
 import React, { Component } from "react";
-import ImageUploader from "react-images-upload";
+// import ImageUploader from "react-images-upload";
 
-import history from "./../history";
 export default class signup extends Component {
   render() {
     return (
