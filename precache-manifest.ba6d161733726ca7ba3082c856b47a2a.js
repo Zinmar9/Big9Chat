@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "077507c9d0d60517a271aef11faa82f6",
+    "revision": "799ae66f7b4b406a153ccb3f6c0cb6d5",
     "url": "/Big9Chat/index.html"
   },
   {
-    "revision": "e6003254146b6b6e403c",
+    "revision": "dd25848b98b3a22ebf2d",
     "url": "/Big9Chat/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "1793666196965dc29b15",
+    "revision": "ea192c8dc3828f7d80ea",
     "url": "/Big9Chat/static/css/main.c7df500f.chunk.css"
   },
   {
-    "revision": "e6003254146b6b6e403c",
-    "url": "/Big9Chat/static/js/2.8563bc1f.chunk.js"
+    "revision": "dd25848b98b3a22ebf2d",
+    "url": "/Big9Chat/static/js/2.37184767.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Big9Chat/static/js/2.8563bc1f.chunk.js.LICENSE.txt"
+    "url": "/Big9Chat/static/js/2.37184767.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1793666196965dc29b15",
-    "url": "/Big9Chat/static/js/main.20a344fa.chunk.js"
+    "revision": "ea192c8dc3828f7d80ea",
+    "url": "/Big9Chat/static/js/main.9fdfdb60.chunk.js"
   },
   {
     "revision": "8fbde20e3323715d9952",
