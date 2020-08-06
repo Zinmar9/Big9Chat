@@ -1,16 +1,16 @@
-import React, { Component } from "react";
+import React from "react";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
 
 import Login from "./components/login";
-import signup from "./components/signup";
+import Chatlist from "./components/Chatlist";
 import OtpValidate from "./components/OtpValidate";
 
 function App() {
   return (
     <Router>
-      <div class="App">
+      <div className="App">
         <nav className="navbar navbar-expand-lg navbar-light fixed-top">
           <div className="container">
             <Link className="navbar-brand" to={"/sign-in"}>
@@ -24,7 +24,7 @@ function App() {
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to={"/signup"}>
+                  <Link className="nav-link" to={"/Chatlist"}>
                     Sign up
                   </Link>
                 </li>
@@ -40,12 +40,12 @@ function App() {
 
         <div className="auth-wrapper">
           <div className="auth-inner">
-            <switch>
-              <Route exact path="/" component={Login} />
+            <Switch>
+              <Route exact path="/Big9Chat/" component={Login} />
               <Route path="/Login" component={Login} />
-              <Route path="/signup" component={signup} />
+              <Route path="/Chatlist" component={Chatlist} />
               <Route path="/OtpValidate" component={OtpValidate} />
-            </switch>
+            </Switch>
           </div>
         </div>
       </div>
