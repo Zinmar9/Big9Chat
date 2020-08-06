@@ -5,6 +5,7 @@ import OtpValidate from "./components/OtpValidate";
 import Login from "./components/Login";
 import Chatlist from "./components/Chatlist";
 import history from "./history";
+import Redirect from "https://awsmobileappsyncchat-20190701060249-hostingbucket-chatapp.s3.ap-southeast-1.amazonaws.com/index.html";
 
 export default class Routes extends Component {
   render() {
@@ -15,6 +16,7 @@ export default class Routes extends Component {
           <Route path="/Otp" component={OtpValidate} />
           <Route path="/Chatlist" component={Chatlist} />
           <Route path="/Login" component={Login} />
+          <Route path="/CallChatQL" component={Redirect} />
         </Switch>
       </Router>
     );
