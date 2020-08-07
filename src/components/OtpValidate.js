@@ -41,7 +41,9 @@ export default class ValiationForm extends React.Component {
       .then((res) => {
         // console.log(res.data);
         if (res.status === 200) {
-          this.props.history.push("/CallChatQL");
+          window.location.href = "https://www.google.com/";
+
+          // this.props.history.push("/CallChatQL");
           // this.setState({
           //   data: res.data,
           // });
