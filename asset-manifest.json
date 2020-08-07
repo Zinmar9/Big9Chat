@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Big9Chat/static/css/main.c7df500f.chunk.css",
-    "main.js": "/Big9Chat/static/js/main.34f6bee3.chunk.js",
-    "main.js.map": "/Big9Chat/static/js/main.34f6bee3.chunk.js.map",
+    "main.js": "/Big9Chat/static/js/main.42bf3dc1.chunk.js",
+    "main.js.map": "/Big9Chat/static/js/main.42bf3dc1.chunk.js.map",
     "runtime-main.js": "/Big9Chat/static/js/runtime-main.00647e73.js",
     "runtime-main.js.map": "/Big9Chat/static/js/runtime-main.00647e73.js.map",
     "static/css/2.af3c1da9.chunk.css": "/Big9Chat/static/css/2.af3c1da9.chunk.css",
     "static/js/2.37184767.chunk.js": "/Big9Chat/static/js/2.37184767.chunk.js",
     "static/js/2.37184767.chunk.js.map": "/Big9Chat/static/js/2.37184767.chunk.js.map",
     "index.html": "/Big9Chat/index.html",
-    "precache-manifest.7d99ca1f4a576c05799749f430735b1f.js": "/Big9Chat/precache-manifest.7d99ca1f4a576c05799749f430735b1f.js",
+    "precache-manifest.b1ab4359506853a8295d5ef61d9c6724.js": "/Big9Chat/precache-manifest.b1ab4359506853a8295d5ef61d9c6724.js",
     "service-worker.js": "/Big9Chat/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/Big9Chat/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.c7df500f.chunk.css.map": "/Big9Chat/static/css/main.c7df500f.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.37184767.chunk.js",
     "static/css/main.c7df500f.chunk.css",
-    "static/js/main.34f6bee3.chunk.js"
+    "static/js/main.42bf3dc1.chunk.js"
   ]
 }
