@@ -27,7 +27,7 @@ export default class Login extends Component {
 
         <button
           variant="btn btn-success"
-          onClick={() => history.push("/OtpValidate")}
+          onClick={() => history.push("/Big9Chat/OtpValidate")}
           type="submit"
           className="btn btn-primary btn-block"
         >

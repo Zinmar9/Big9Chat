@@ -42,9 +42,9 @@ function App() {
           <div className="auth-inner">
             <Switch>
               <Route exact path="/Big9Chat/" component={Login} />
-              <Route path="/Big9Chat/Login" component={Login} />
-              <Route path="/Big9Chat/Chatlist" component={Chatlist} />
-              <Route path="/Big9Chat/OtpValidate" component={OtpValidate} />
+              <Route path="/Login" component={Login} />
+              <Route path="/Chatlist" component={Chatlist} />
+              <Route path="/OtpValidate" component={OtpValidate} />
             </Switch>
           </div>
         </div>
